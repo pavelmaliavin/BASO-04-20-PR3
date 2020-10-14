@@ -65,8 +65,44 @@ RStudio:
 
 <a href="https://ibb.co/r2gDg3m"><img src="https://i.ibb.co/9HJQJhN/image.png" alt="image" border="0"></a>
 
+Поставил сортировку по датам:
 
+<a href="https://ibb.co/cN1LM9w"><img src="https://i.ibb.co/8j0cTwb/image.png" alt="image" border="0"></a>
 
+Теперь создаем текстовый файл и удаляем его:
 
+<a href="https://ibb.co/dQb5NNp"><img src="https://i.ibb.co/55YRQQj/image.png" alt="image" border="0"></a>
+
+Проводим повторное сканирование:
+
+<a href="https://ibb.co/FYKsmQQ"><img src="https://i.ibb.co/jwTVbCC/image.png" alt="image" border="0"></a>
+
+И вауля, находим фэтот удаленный файл:
+
+<a href="https://ibb.co/M5hxMND"><img src="https://i.ibb.co/PzYvwCZ/image.png" alt="image" border="0"></a>
+
+Выкидываем на рабочий стол и смотрим, вроде бы успешно восстановлен
+
+<a href="https://ibb.co/fH2rtP7"><img src="https://i.ibb.co/BBtTjSR/image.png" alt="image" border="0"></a>
+
+Повторяем, только чистмим ССleaner'ом
+
+<a href="https://ibb.co/kXgWY8Z"><img src="https://i.ibb.co/HqDkmzZ/image.png" alt="image" border="0"></a>
+
+<a href="https://ibb.co/tqrJN0q"><img src="https://i.ibb.co/5rHRzQr/image.png" alt="image" border="0"></a>
+
+Все успешно затерлось, возвращаемся к восстановлению
+
+<a href="https://ibb.co/wC9wDy6"><img src="https://i.ibb.co/tc7xyBC/image.png" alt="image" border="0"></a>
+
+Смотрим, что там с текстовиком
+
+<a href="https://ibb.co/2yzRdwJ"><img src="https://i.ibb.co/ZVQvx39/image.png" alt="image" border="0"></a>
+
+Сначала подумал, что CCleaner никак не повлиял, и я решил проверить внутренности 
+
+<a href="https://ibb.co/yWpLK4B"><img src="https://i.ibb.co/nzBh4P8/image.png" alt="image" border="0"></a>
+
+Получилось все как-то крайне странно, название не поменялось, текст потер, значит, CCleaner сделал текстовик битым
 
 
