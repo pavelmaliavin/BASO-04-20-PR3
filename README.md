@@ -61,6 +61,10 @@ CCleaner:
 
 RStudio:
 
+Сканить основной диск долго, поэтому я решил взять флешку:
+
+<a href="https://ibb.co/r2gDg3m"><img src="https://i.ibb.co/9HJQJhN/image.png" alt="image" border="0"></a>
+
 
 
 
